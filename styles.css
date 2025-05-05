@@ -74,7 +74,7 @@ input[type='range']::-webkit-slider-runnable-track {
     border-radius: 4px;
 }
 
-/* Togle Switches */
+/* Toggle Switches */
 input[type='checkbox'] {
     appearance: none;
     width: 40px;
